@@ -1,10 +1,11 @@
-public class Main {
+public class Main 
+{
     public static void main(String[] args) 
 	{
+
         System.out.println("Priyanka Singh");
 		System.out.println("priyankathedecoder@gmail.com");
 		System.out.println("@Priyanka");
 		System.out.println("Genomics");
-		
     }
 }
